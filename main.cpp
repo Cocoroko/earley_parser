@@ -1,6 +1,6 @@
 #include <memory>
 #include "parser.cpp"
-p
+
 
 int main() {
   auto parser = new EarleyParser();
