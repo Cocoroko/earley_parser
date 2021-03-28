@@ -9,8 +9,8 @@
  **Выход**: **true** - если выводится и **false** - иначе.
 
 
-Все функции в программе заданы такими же названиями, как на лекции
-функции названы как и на лекции, ссылка на которую: https://www.youtube.com/watch?v=P6qWLT_TFtw&list=PL4_hYwCyhAvbl7pkWGbeOjWyU-z7hDnlb&index=8
+Все функции в программе заданы такими же названиями, как на лекции, ссылка на которую: 
+https://www.youtube.com/watch?v=P6qWLT_TFtw&list=PL4_hYwCyhAvbl7pkWGbeOjWyU-z7hDnlb&index=8
 
 ##### тонкости реализации:
 
